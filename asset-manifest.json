@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e580396f.css",
+    "main.js": "/static/js/main.8d4b7127.js",
+    "static/media/about.png": "/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/musicweb.png": "/static/media/musicweb.e965849fb156fea620b6.png",
+    "static/media/resume.jpg": "/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/HMSPOP.png": "/static/media/HMSPOP.57c51b7da7b66e8ebeea.png",
+    "index.html": "/index.html",
+    "main.e580396f.css.map": "/static/css/main.e580396f.css.map",
+    "main.8d4b7127.js.map": "/static/js/main.8d4b7127.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e580396f.css",
+    "static/js/main.8d4b7127.js"
+  ]
+}
